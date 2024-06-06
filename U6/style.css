@@ -1,0 +1,430 @@
+html {
+ 
+body {
+
+  font-family: Arial, Helvetica, sans-serif;
+
+  background-color: #dbebd3;
+
+  width: 1500px;
+
+  margin-right: auto;
+
+  margin-left: auto;
+
+  margin-top: 2px;
+
+  }
+
+
+  #page {
+
+  background-color: #dbebd3;
+
+  }
+
+img {
+  display: block;
+  margin-left: auto;
+  width: 180px;
+  float: left;
+}
+img.o {
+    display: block;
+    margin-left: auto;
+    margin-right: 0px;
+    width: 400px;    float: right;
+  padding-left: 10px;
+  padding-top: 60px;
+}
+  #navigation {
+
+  text-align: right;
+
+  padding-top: 40px;
+
+  padding-right: 20px;
+
+    font-size: 20px;
+
+    color: black;
+  }
+
+  button {
+    background-color: #e4943c;
+
+    font-size: 18px;
+  
+    a:link { 
+      text-decoration: none; 
+    } 
+    a:visited { 
+      text-decoration: none; 
+    } 
+    a:hover { 
+      text-decoration: none; 
+    } 
+    a:active { 
+      text-decoration: none;
+
+    }
+    
+    
+  }
+  
+  h1.w {
+    text-align: left;
+    padding-top: 100px;
+    padding-right: 300px;
+  color: #003300;
+
+  }
+  #maincontent {
+  text-align: left;
+  overflow: hidden;
+
+  padding: 10px;
+
+  }
+  h2.q {
+    text-align: left;
+    padding-top: 80px;
+  color: #003300;
+
+  }
+  p.t {
+    text-align: left;
+    padding-top: 40px;
+    font-size: 25px;
+
+  color: #003300;
+
+    }
+    p.r {
+      text-align: centre;
+      padding-right: 20px;
+      font-size: 20px;
+      float: left;
+      border: 5px solid #003300;
+
+    }
+  img.LFC {
+    display: block;
+      margin-right: 20px;
+      width: 100px;    float: left;
+    Padding: left  ;
+    padding-top: 100px;
+
+    }
+    img.Ikea {
+      display: block;
+      margin-top: 30px;
+        margin-left: 40px;
+        margin-right: auto;
+        width: 200px;    float: left;
+      Padding: left ;
+      padding-top: 100px;
+
+      }
+      img.Gucci {
+        display: block;
+        margin-top: 30px;
+          margin-left: 15px;
+          margin-right: auto;
+          width: 200px;    float: left;
+        Padding: left ;
+        padding-top: 70px;
+
+        }
+        img.Costco {
+          display: block;
+          margin-top: 30px;
+            margin-left: 20px;
+            margin-right: auto;
+            width: 200px;    float: left;
+          Padding: left ;
+          padding-top: 100px;
+
+          }
+          img.WizzKidz {
+            display: block;
+            margin-top: 30px;
+              margin-left: 30px;
+              margin-right: auto;
+              width: 150px;    float: left;
+            Padding: left ;
+            padding-top: 40px;
+
+           
+    
+
+
+
+    color: #003300;
+
+  }
+      
+      }
+      p.JobSpecLower {
+        text-align: left;
+        padding-top: 40px;
+        font-size: 25px;
+        float: left;
+      ;
+
+      color: #003300; 
+  
+  h3 {
+    color: #004800;
+
+  }
+
+      
+
+  
+}
+img.Trainee {
+  height: 200px;
+  width: 300px;
+  
+  padding: 90px 90px;
+}
+
+   .TraineeBox {
+   width:270px;
+   padding-top:50px;
+   border-style:solid;
+   border-color:#dbebd3;
+  background-color: #e4943c;
+   border-width:5px;
+   padding-bottom:20px;
+   text-align:center;
+    text-wrap: 500px;
+     float: center;
+     padding: 100px 100px;
+  }   
+
+.box {
+    width: 270px;
+    padding: 50px 100px 20px 100px;
+    border-style: solid;
+    border-color: #dbebd3;
+    background-color: #e4943c;
+    border-width: 5px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+.JobSpecLower {
+ width:800px;
+ padding-top:20px;
+ border-style:solid;
+ border-color:#e4943c;
+ border-width:5px;
+ padding-bottom:5px;
+ text-align:left;
+   float: left;
+  font-size: 20px;
+}     
+
+.JobDescription {
+ width:400px;
+ padding-top:100px;
+ border-style:solid;
+ border-color:#004800;
+background-color: #e4943c;
+ border-width:5px;
+  padding-left: 10px;
+ padding-bottom:20px;
+ text-align:center;
+  text-wrap: 500px;
+   float: right;
+   padding: 100px 100px;
+}   
+
+p.FormBox {
+  text-align: centre;
+  padding-right: 10px;
+  font-size: 20px;
+  float: right;
+  background-color: solid #003300;
+
+  }
+  .Courses {
+    padding-top: 400px;
+    width: 100px;
+  padding: 90px 90px;
+    grid-row: 5px;
+        flex-direction: column;
+    box-align: 5px;
+    opacity: 1;
+    transition: .5s ease;
+    backface-visibility: hidden;
+    }   
+
+    .TraineeText {
+      width:270px;
+       padding-top:20px;
+       border-style:solid;
+       border-color:#dbebd3;
+      background-color: #e4943c;
+       border-width:5px;
+       padding-bottom:20px;
+       text-align:center;
+        text-wrap: 500px;
+         float: left;
+         padding: 100px 100px;
+
+}
+
+  .CoursesText {
+      width:1000px;
+       border-style:solid;
+       border-color:#dbebd3;
+      background-color: #e4943c;
+       border-width:5px;
+    padding-bottom:20px;
+       text-align:left;
+        text-wrap: 500px;
+         float: right;
+    padding: 20px 20px;
+        height: 1px;
+    vertical-align: 5px;
+}
+
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.Courses {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.courses {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center; /* Centers the items horizontally */
+}
+
+.course-item {
+  flex: 1 1 calc(33.333% - 20px);
+  box-sizing: border-box;
+  padding: 20px;
+  background-color: #FFFFFF;
+  border-radius: 5px;
+  border: 2px solid #e4943c;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center; /* Centers the text horizontally */
+  justify-content: center; /* Centers the content vertically */
+}
+
+.course-item img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 15px; /* Space between image and text */
+}
+
+.course-item p {
+  margin: 0;
+  color: #555;
+}
+
+.Waffle {
+  border: 2px solid #e4943c; 
+  background-color: #ecf0f1; /* Light grey background */
+  padding: 20px; /* Padding inside the border */
+  margin: 20px auto; /* Center the element */
+  text-align: center; /* Center the text */
+  width: 80%; /* Width of the element */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle shadow */
+}
+
+.Requirements {
+  border: 2px solid #e4943c; 
+  background-color: #ecf0f1; /* Light grey background */
+  padding: 20px; /* Padding inside the border */
+  margin: 20px 0; /* Remove auto-centering and add margin at the top and bottom */
+  text-align: left; /* Align text to the left */
+  width: 50%; /* Width of the element */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle shadow */
+  float: left; /* Float the element to the left */
+}
+
+.w {
+  color: #333;
+}
+
+.q {
+  color: #666;
+}
+
+.trainee-profiles {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.trainee-box {
+  display: flex;
+  align-items: center;
+  border: 2px solid orange;
+  padding: 10px;
+  margin: 10px;
+  width: 45%;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.trainee-img {
+  max-width: 100px;
+  margin-right: 20px;
+}
+
+.trainee-text {
+  max-width: calc(100% - 120px);
+}
+
+.trainee-text p {
+  margin: 0;
+  color: #333;
+}
+
+.trainee-text a {
+  color: #4CAF50;
+  text-decoration: none;
+}
+
+.trainee-text a:hover {
+  text-decoration: underline;
+}
+
+
